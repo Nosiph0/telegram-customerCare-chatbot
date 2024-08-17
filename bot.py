@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import spacy
 import random
 from telegram import Update
